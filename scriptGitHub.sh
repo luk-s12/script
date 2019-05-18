@@ -201,7 +201,7 @@ git add -u
 
 comando="git rm --cached -r" 
 
-seleccionDeOpciones $comando "remove"
+seleccionDeOpciones $comando
 
 }
 
